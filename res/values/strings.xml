@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Highlighter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="story">SLOVYANSK, Ukraine — Russia announced on Thursday that it was immediately starting military drills involving its army and air force along the border with Ukraine, harshly criticizing the government there for moving against pro-Russian forces occupying various government buildings in a show of force that left a still-undetermined number of people killed and wounded.
+
+The military maneuvers, along with pointed criticism of the Ukrainian government by President Vladimir V. Putin and other senior officials, was sure to deepen the crisis with the West as Moscow vies with Washington and its European allies over who will influence the future of Ukraine.
+
+“If, in fact, the Kiev regime has started to use the armed forces against people inside the country, then, with no doubt, it is a serious crime against their own nation,” Mr. Putin said at a forum for regional reporters and media figures that was broadcast live on Rossiya 24 television.</string>
+	<string name="title">The Princess and the Pea</string>
+	<string name="buttonName">Start</string>
+	<string name="hint">Search for a word</string>
+	<string name="conjunctions">because before by even if  lest once since than unless when whenever where wherever while until till that though till whether either for and nor but or yet so how wheras however nevertheless nonetheless still conversely instead otherwise rather accordingly consequently hence meanwhile then therefore thus as</string>
+	<string name="englishHonorifics">Mr. Ms. Mrs. Dr. Prof. Sr. Bro. Fr. Rev. Pr. Adv. Gen.</string>
+	<string name="prepositions">abaft aboard about above absent across afore after against along alongside amid amidst among amongst anenst apropos apud around as aside astride at athwart atop barring before behind below beneath beside besides between beyond but by circa concerning despite down during except excluding failing following for forenenst from given in including inside into lest like mid midst minus modulo near next notwithstanding of off on onto opposite out outside over pace past per plus pro qua regarding round sans save since than through thru throughout till times to toward towards under underneath unlike until unto up upon versus v.s. via vice with within without worth according to ahead of apart from as for as of as per as regards aside from back to because of close to due to except for far from in to inside of instead of left of near to next to on to out from out of outside of prior rather regardless of subsequent to such as that where as whose</string>
+</resources>
